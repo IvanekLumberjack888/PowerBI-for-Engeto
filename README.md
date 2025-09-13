@@ -13,7 +13,7 @@
 
 ## 🎯 O Projektu
 
-**TimberRide Dashboard** je interaktivní Power BI report vytvořený v rámci **ENGETO Academy - Power BI kurzu**. Projekt analyzuje výkonnost imaginární autopůjčovny pomocí vlastního datasetu a pokročilých vizualizačních technik.
+**TimberRide Dashboard** je interaktivní Power BI report vytvořený v rámci **ENGETO Academy - Power BI kurzu**. Projekt analyzuje výkonnost imaginární autopůjčovny pomocí vlastního datasetu a pokročilých vizualizačních technik v různých obdobích.
 
 > 🎓 *Tento projekt vznikl jako součást ENGETO kurzu: Datová analýza s Pythonem. Je dle požadavků ENGETO dle zadání a demonstruje pokročilé Power BI funkce včetně prognózování a What-If scénářů.*
 
@@ -137,7 +137,7 @@ Zakladni_Obrat * (1 + Cenova_Zmena) * (1 + (Cenova_Zmena * -0.5)) * Spokojenost_
 ### Spuštění Projektu
 1. **📥 Stáhněte** repository jako ZIP nebo použijte:
 ```bash
-git clone [https://github.com/ivaneklumberjack888/TimberRide-PowerBI.git](https://github.com/IvanekLumberjack888/PowerBI-for-Engeto/blob/main/TimberRide_Dashboard.pbix)
+git clone https://github.com/IvanekLumberjack888/PowerBI-for-Engeto/blob/main/TimberRide_Dashboard.pbix
 ```
 
 2. **📂 Otevřete** `TimberRide_Dashboard.pbix` v Power BI Desktop
