@@ -235,6 +235,7 @@ Díky **lektorskému týmu** za odborné vedení a podporu:
 - **Matěj Karolyi** - DAX optimalizace a best practices, Calm professional
 - **Alča Kleinová** - Data in Excel Superwoman and PowerBI Tribe Member
 - **Honza Polák** - PowerBI & Excel specialist, Lecturer
+- **Robert Mondrik - PowerBI storyteller 👌
 - **David Příhoda** - Enthusiastic person
 
 ### Community & Resources
