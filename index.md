@@ -1,3 +1,5 @@
+Přehled mých projektů je ne webu: https://ivaneklumberjack888.github.io/#projects
+
 # 🚗 TimberRide AutoPůjčovna - Power BI Dashboard
 
 <div align="center">
