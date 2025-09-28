@@ -7,10 +7,10 @@ Přehled mých projektů je ne webu: https://ivaneklumberjack888.github.io/#proj
 
 <div align="center">
 
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-25%2B%20Measures-blue?style=for-the-badge)
-![ENGETO](https://img.shields.io/badge/ENGETO-Academy-green?style=for-the-badge)
-![Czech](https://img.shields.io/badge/Language-Czech-red?style=for-the-badge)
+[Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+[DAX](https://img.shields.io/badge/DAX-25%2B%20Measures-blue?style=for-the-badge)
+[ENGETO](https://img.shields.io/badge/ENGETO-Academy-green?style=for-the-badge)
+[Czech](https://img.shields.io/badge/Language-Czech-red?style=for-the-badge)
 
 </div>
 
@@ -240,7 +240,7 @@ Díky **lektorskému týmu** za odborné vedení a podporu:
 - **Matěj Karolyi** - DAX optimalizace a best practices, Calm professional
 - **Alča Kleinová** - Data in Excel Superwoman and PowerBI Tribe Member
 - **Honza Polák** - PowerBI & Excel specialist, Lecturer
-- **Robert Mondrik - PowerBI storyteller 👌
+- **Robert Mondrik** - PowerBI storyteller 👌
 - **David Příhoda** - Enthusiastic person
 
 ### Community & Resources
